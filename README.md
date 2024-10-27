@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lwin, a recent graduate from Ngee Ann Polytechnic with diploma in Electronic & Computer Engineering.
+- 👋 Hi, I’m Claudine, a recent graduate from Ngee Ann Polytechnic with diploma in Electronic & Computer Engineering.
 - 👀 I’m interested in LoRa, Arduino and other microcontroller related things.
 - 🌱 I’m currently learning LoRa.
 - 💞️ ----------------------------
